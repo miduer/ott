@@ -22,7 +22,7 @@ CCTV-风云音乐,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FENGYUNYY-CQ/
 CCTV-风云剧场,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FENGYUNJC-CQ/
 CCTV-第一剧场,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_DIYIJC-CQ/
 CCTV-怀旧剧场,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HUAIJIUJC-CQ/
-CCTV-女生时尚,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_NVXINGSS-CQ/
+CCTV-女性时尚,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_NVXINGSS-CQ/
 CCTV-世界地理,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHIJIEDL-CQ/
 CCTV-兵器科技,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_BINGQIKJ-CQ/
 CCTV-电视指南,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_DIANSHIZN-CQ/
