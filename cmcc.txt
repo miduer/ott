@@ -36,6 +36,11 @@ CETV-1 综合教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-1/
 CETV-2 空中课堂,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-2/
 CETV-3 北京地面,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-3/
 CETV-4 职业教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
+
+CECTV-汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CECTV-国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CECTV-国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CECTV-国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
  
 CGTN,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-CQ/
 CGTN Documentary,http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
