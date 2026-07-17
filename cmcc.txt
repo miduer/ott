@@ -110,8 +110,8 @@ CGTN РYCCKИЙ,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
  
 卡酷少儿,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-kakukaton/
 金鹰卡通,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-jinyingkaton/
-嘉佳卡通,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_JIAJIA/
-优漫卡通,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_YOUMAN/
+嘉佳卡通,http://zv6.ott.mobaibox.com:6060/cntv/live1/SD-4000k-576P-jiajiakaton/
+优漫卡通,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-youmankaton/
  
 地区频道,#genre#
 第一财经,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_DIYICJ-HQ/
@@ -292,15 +292,3 @@ KTV热歌,http://zv6.ott.mobaibox.com:6060/gitv/live1/GITV-JS-69/
 乡村爱情17,http://zv6.ott.mobaibox.com:6060/gitv/live1/GITV-JS-74/
 墨雨云间,http://zv6.ott.mobaibox.com:6060/gitv/live1/GITV-JS-75/
 无间,http://zv6.ott.mobaibox.com:6060/gitv/live1/GITV-JS-76/
- 
-广播频道,#genre#
-江苏新闻广播,http://zv6.ott.mobaibox.com:6060/gitv/live1/R_XINWEN/
-江苏新闻综合广播,http://zv6.ott.mobaibox.com:6060/gitv/live1/R_XINWENZH/
-江苏交通广播,http://zv6.ott.mobaibox.com:6060/gitv/live1/R_JIAOTONG/
-江苏金陵之声,http://zv6.ott.mobaibox.com:6060/gitv/live1/R_997/
-江苏经典流行音乐,http://zv6.ott.mobaibox.com:6060/gitv/live1/R_JINGDIANLX/
-江苏音乐广播,http://zv6.ott.mobaibox.com:6060/gitv/live1/R_YINYUE/
-江苏文艺广播,http://zv6.ott.mobaibox.com:6060/gitv/live1/R_WENYI/
-江苏故事广播,http://zv6.ott.mobaibox.com:6060/gitv/live1/R_GUSHI/
-江苏健康广播,http://zv6.ott.mobaibox.com:6060/gitv/live1/R_JIANKANG/
-江苏财经广播,http://zv6.ott.mobaibox.com:6060/gitv/live1/R_CAIJING/
