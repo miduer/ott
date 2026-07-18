@@ -139,9 +139,9 @@ CGTN РYCCKИЙ,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
 宜兴影视,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-yixingyingshi/
 宜兴紫砂,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-yixingzisha/
  
-常州新闻综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/jsczxinwen/
-常州都市,http://zv6.ott.mobaibox.com:6060/cntv/live1/jsczdushi/
-常州生活,http://zv6.ott.mobaibox.com:6060/cntv/live1/jsczshenghuo/
+常州新闻综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CHANGZHOUXW/
+常州都市,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CHANGZHOUDS/
+常州生活,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CHANGZHOUSH/
 金坛综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-jintanxinwen/
  
 镇江新闻综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_ZHENJIANGTV-1/
@@ -159,12 +159,12 @@ CGTN РYCCKИЙ,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
  
 盐城1,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_YANCHENGTV-1/
 盐城2,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_YANCHENGTV-2/
-射阳新闻综合,http://ott.mobaibox.com/PLTV/3/224/3221229044/index.m3u8
-射阳经济生活,http://ott.mobaibox.com/PLTV/3/224/3221229015/index.m3u8
+射阳新闻综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHEYANGTV-1/
+射阳经济生活,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHEYANGTV-2/
  
-淮安综合,http://ott.mobaibox.com/PLTV/3/224/3221228834/index.m3u8
-淮安影视娱乐,http://ott.mobaibox.com/PLTV/3/224/3221228837/index.m3u8
-淮安公共,http://ott.mobaibox.com/PLTV/3/224/3221228840/index.m3u8
+淮安综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HUAIANXW-CQ/
+淮安影视娱乐,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HUAIANYS-CQ/
+淮安公共,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HUAIANGG-CQ/
 盱眙综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-xuyizonghe/
  
 宿迁综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SQZH/
