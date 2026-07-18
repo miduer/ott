@@ -192,7 +192,7 @@ CGTN РYCCKИЙ,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
 赣榆,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-2500k-1080P-ganyutv/
 东海综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/jsdonghaixinwen/
 灌云综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-guanyunzh/
-灌南,http://ott.mobaibox.com/PLTV/3/224/3221229035/index.m3u8
+灌南,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_GUANNANZH/
  
 体育频道,#genre#
 天元围棋,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TIANYUANWQ/
