@@ -209,9 +209,14 @@ CGTN РYCCKИЙ,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
 居家健身,http://zv6.ott.mobaibox.com:6060/gitv/live1/GITV-JS-4/
 体坛同期声,http://zv6.ott.mobaibox.com:6060/gitv/live1/GITV-JS-35/
 冰雪竞技场,http://zv6.ott.mobaibox.com:6060/gitv/live1/GITV-JS-45/
+世界杯经典回顾,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-4000k-1080P-sjbjdhg/
+绝对巨星-C罗,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-4000k-1080P-jdjxcl/
+绝对巨星-梅西,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-4000k-1080P-jdjxmx/
  
 轮播频道,#genre#
 黑莓电影,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-Supermovie/
+黑莓影视,http://zv6.ott.mobaibox.com:6060/cntv/live1/zhifouzf/
+黑莓动画,http://zv6.ott.mobaibox.com:6060/cntv/live1/donghuawg/
 动作电影,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-dongzuody/
 惊悚悬疑,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-jingsongxy/
 家庭剧场,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-jiatingjc/
@@ -225,7 +230,9 @@ CGTN РYCCKИЙ,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
 中国功夫,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-gzkongfu/
 军事评论,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-junshipl/
 农业致富,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-nongyezf/
+炫舞未来,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-4000k-1080P-xwwl/
 怡伴健康,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-ljiankangyouyue/
+精品萌宠,http://zv6.ott.mobaibox.com:6060/cntv/live1/jingpinmc/
 精品综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-mingxingdp/
 热播精选,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-xiqumd/
  
