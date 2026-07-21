@@ -150,16 +150,16 @@ CGTN РYCCKИЙ,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
 连云港生活频道,http://zv6.ott.mobaibox.com:6060/cntv/live1/jslyggonggongpd/
 
 体育频道,#genre#
-天元围棋,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TIANYUANWQ/
-环球奇观,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HUANGQIUQIGUAN/
-书画世界,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHUHUA/
-国学频道,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_GUOXUE/
-重庆汽摩,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_QIMO/
 睛彩青少,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-quanminrl/
 睛彩篮球,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-miguaoyun1/
 睛彩竞技,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-miguaoyun2/
 睛彩广场舞,http://zv6.ott.mobaibox.com:6060/cntv/live1/MIGU-8000k-1080P-jcgcw/
 欢乐棋牌,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-4000k-1080P-yinlingsg/
+天元围棋,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TIANYUANWQ/
+环球奇观,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HUANGQIUQIGUAN/
+书画世界,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHUHUA/
+国学频道,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_GUOXUE/
+重庆汽摩,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_QIMO/
 
 轮播频道,#genre#
 黑莓电影,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-Supermovie/
