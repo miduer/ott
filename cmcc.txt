@@ -38,15 +38,10 @@ CETV-3 北京地面,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-3/
 CETV-4 职业教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
  
 CGTN,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-CQ/
-CGTN Documentary,http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 CGTN Documentary,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-cctv-9/
-CGTN العربية,https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 CGTN العربية,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN_A/
-CGTN ESPAÑOL,https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 CGTN ESPAÑOL,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-ESPANOL/
-CGTN FRANÇAIS,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 CGTN FRANÇAIS,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-FRANCAIS/
-CGTN РYCCKИЙ,https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 CGTN РYCCKИЙ,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
  
 中央新影-发现之旅,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FAXIANZL/
