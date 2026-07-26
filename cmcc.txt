@@ -166,6 +166,9 @@ CGTN РYCCKИЙ,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
 宿迁公共,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SQGG/
 沭阳综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-shuyangzonghe/
 
+徐州1,http://zv6.ott.mobaibox.com:6060/cntv/live1/xzxwzh/
+徐州2,http://zv6.ott.mobaibox.com:6060/cntv/live1/xzjjsh/
+徐州3,http://zv6.ott.mobaibox.com:6060/cntv/live1/xzwyys/
 铜山1,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TONGSHAN-1/
 铜山2,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TONGSHAN-2/
 铜山3,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TONGSHAN-3/
