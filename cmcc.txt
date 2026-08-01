@@ -247,7 +247,7 @@ CGTN РYCCKИЙ,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
 年代大剧,http://A/ku9/js/itv.js?cid=ystenlive&id=1000000005000266014
 
 精彩影视,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000320630
-求索动物,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000002000010046
 求索纪录,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000002000032052
+求索动物,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000002000010046
 求索科学,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000002000032344
 求索生活,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000002000003382
