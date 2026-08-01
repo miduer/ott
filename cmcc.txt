@@ -99,7 +99,9 @@ CGTN РYCCKИЙ,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
 纪实科教,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-beijingjishi/
 金鹰纪实,http://zv6.ott.mobaibox.com:6060/cntv/live1/SD-4000k-576P-jinyingjs/
 
+卡酷少儿,http://A/ku9/js/itv.js?cid=bestzb&id=7851974109718180595
 卡酷少儿,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-kakukaton/
+金鹰卡通,http://A/ku9/js/itv.js?cid=bestzb&id=5000000006000040024
 金鹰卡通,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-jinyingkaton/
 嘉佳卡通,http://zv6.ott.mobaibox.com:6060/cntv/live1/SD-4000k-576P-jiajiakaton/
 优漫卡通,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-youmankaton/
@@ -138,8 +140,6 @@ CGTN РYCCKИЙ,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
 多彩文体,http://A/ku9/js/itv.js?cid=bestzb&id=5000000002000009455
 金色学堂,http://A/ku9/js/itv.js?cid=bestzb&id=5000000010000026105
 动漫秀场,http://A/ku9/js/itv.js?cid=bestzb&id=5000000011000031113
-
-广东珠江,http://A/ku9/js/itv.js?cid=ystenlive&id=1000000004000011655
 
 快乐垂钓,http://A/ku9/js/itv.js?cid=bestzb&id=5000000011000031206
 
