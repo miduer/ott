@@ -139,6 +139,8 @@ CGTN РYCCKИЙ,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
 金色学堂,http://A/ku9/js/itv.js?cid=bestzb&id=5000000010000026105
 动漫秀场,http://A/ku9/js/itv.js?cid=bestzb&id=5000000011000031113
 
+广东珠江,http://A/ku9/js/itv.js?cid=ystenlive&id=1000000004000011655
+
 快乐垂钓,http://A/ku9/js/itv.js?cid=bestzb&id=5000000011000031206
 
 昆山新闻综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-kunshanxinwen/
@@ -246,6 +248,27 @@ CGTN РYCCKИЙ,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
 欢乐剧场,http://A/ku9/js/itv.js?cid=ystenlive&id=1000000005000266012
 年代大剧,http://A/ku9/js/itv.js?cid=ystenlive&id=1000000005000266014
 
+风尚音乐,http://A/ku9/js/itv.js?cid=wasusyt&id=5529729098703832176
+精品剧场,http://A/ku9/js/itv.js?cid=wasusyt&id=8230197131234717902
+欧美影院,http://A/ku9/js/itv.js?cid=wasusyt&id=7185203501769528108
+亚洲影院,http://A/ku9/js/itv.js?cid=wasusyt&id=5841816227539527643
+
+爱谍战,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000070630
+爱动漫,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000280630
+爱科幻,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000020630
+爱科学,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000160630
+爱浪漫,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000040630
+爱历史,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000150630
+爱猎奇,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000190630
+爱旅行,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000250630
+爱奇谈,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000270630
+爱赛车,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000240630
+爱体育,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000290630
+爱玩具,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000220630
+爱喜剧,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000010630
+爱悬疑,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000050630
+爱幼教,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000180630
+爱院线,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000030630
 精彩影视,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000320630
 求索纪录,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000002000032052
 求索动物,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000002000010046
