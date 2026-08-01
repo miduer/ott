@@ -63,6 +63,7 @@ CGTN РYCCKИЙ,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
 东方卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-dongfangstv/
 浙江卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-zhejiangstv/
 东南卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-dongnanstv/
+海峡卫视,http://go.bkpcp.top/mg/hxws
 厦门卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XIAMEN/
 广东卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-guangdongstv/
 深圳卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-shenzhenstv/
@@ -222,6 +223,9 @@ CGTN РYCCKИЙ,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
 重庆汽摩,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_QIMO/
 
 轮播频道,#genre#
+CHC动作电影,http://go.bkpcp.top/mg/dzdy
+CHC影迷电影,http://go.bkpcp.top/mg/ymdy
+CHC家庭影院,http://go.bkpcp.top/mg/jtyy
 黑莓电影,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-Supermovie/
 黑莓影视,http://zv6.ott.mobaibox.com:6060/cntv/live1/zhifouzf/
 黑莓动画,http://zv6.ott.mobaibox.com:6060/cntv/live1/donghuawg/
