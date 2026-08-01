@@ -196,11 +196,11 @@ CGTN РYCCKИЙ,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
 新沂综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XZXYTV-1/
 贾汪新闻,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XUZHOUJW/
 贾汪旅游,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XUZHOUJWLY/
-睢宁综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-xzsnzh/
+睢宁综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/xzsnzh/
 睢宁三农,http://zv6.ott.mobaibox.com:6060/cntv/live1/xzsnsn/
-沛县新闻综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-xzpxxwzh/
-沛县经济生活,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-xzpxsh/
-邳州综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-pzzonghe/
+沛县新闻综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/xzpxxwzh/
+沛县经济生活,http://zv6.ott.mobaibox.com:6060/cntv/live1/xzpxsh/
+邳州综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/pzzonghe/
 
 连云港新闻综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/jslygxinwenzh/
 连云港生活频道,http://zv6.ott.mobaibox.com:6060/cntv/live1/jslyggonggongpd/
