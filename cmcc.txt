@@ -35,7 +35,7 @@ CETV-早期教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-ZQJY-CQ/
 CETV-1 综合教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-1/
 CETV-2 空中课堂,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-2/
 CETV-3 北京地面,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-3/
-CETV-4 职业教育,http://A/ku9/js/itv.js?cid=bestzb&id=5000000012000283003
+CETV-4 职业教育,http://A/DIYP影音/js/itv.js?cid=bestzb&id=5000000012000283003
 CETV-4 职业教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 
 CGTN,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-CQ/
@@ -50,7 +50,7 @@ CGTN РYCCKИЙ,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
 中央新影-老故事,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_LAOGUSHI/
 
 卫视频道,#genre#
-中国天气,http://A/ku9/js/itv.js?cid=bestzb&id=5000000005000031974
+中国天气,http://A/DIYP影音/js/itv.js?cid=bestzb&id=5000000005000031974
 凤凰卫视中文台,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-10000k-1080P-fhchinese5s/
 凤凰卫视资讯台,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-10000k-1080P-fhzixun5s/
 凤凰卫视香港台,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-10000k-1080P-fhhongkong5s/
@@ -113,7 +113,7 @@ CGTN РYCCKИЙ,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
 江苏影视,http://zv6.ott.mobaibox.com:6060/cntv/live1/SD-2500k-576P-jiangsuys/
 江苏教育,http://zv6.ott.mobaibox.com:6060/cntv/live1/SD-2500k-576P-jiangsujy/
 江苏体育休闲,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_JSTY/
-财富天下,http://A/ku9/js/itv.js?cid=bestzb&id=5000000011000031208
+财富天下,http://A/DIYP影音/js/itv.js?cid=bestzb&id=5000000011000031208
 
 南通新闻综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/jsntyitao/
 南通2,http://zv6.ott.mobaibox.com:6060/cntv/live1/jsntertao/
@@ -124,22 +124,22 @@ CGTN РYCCKИЙ,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
 南京文旅纪录,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_NJYL/
 南京十八生活,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_NJSB/
 
-上海新闻综合,http://A/ku9/js/itv.js?cid=bestzb&id=5000000011000031110
-上海都市,http://A/ku9/js/itv.js?cid=bestzb&id=5000000010000018926
-东方影视,http://A/ku9/js/itv.js?cid=bestzb&id=5000000010000032212
-五星体育,http://A/ku9/js/itv.js?cid=bestzb&id=5000000010000017540
-上海教育,http://A/ku9/js/itv.js?cid=bestzb&id=5000000011000288019
-哈哈炫动,http://A/ku9/js/itv.js?cid=bestzb&id=5000000011000031123
-都市剧场,http://A/ku9/js/itv.js?cid=bestzb&id=5000000011000031111
-生活时尚,http://A/ku9/js/itv.js?cid=bestzb&id=5000000002000019634
-乐游,http://A/ku9/js/itv.js?cid=bestzb&id=5000000011000031112
-东方财经,http://A/ku9/js/itv.js?cid=bestzb&id=5000000007000010003
-法治天地,http://A/ku9/js/itv.js?cid=bestzb&id=9001547084732463424
-多彩文体,http://A/ku9/js/itv.js?cid=bestzb&id=5000000002000009455
-金色学堂,http://A/ku9/js/itv.js?cid=bestzb&id=5000000010000026105
-动漫秀场,http://A/ku9/js/itv.js?cid=bestzb&id=5000000011000031113
+上海新闻综合,http://A/DIYP影音/js/itv.js?cid=bestzb&id=5000000011000031110
+上海都市,http://A/DIYP影音/js/itv.js?cid=bestzb&id=5000000010000018926
+东方影视,http://A/DIYP影音/js/itv.js?cid=bestzb&id=5000000010000032212
+五星体育,http://A/DIYP影音/js/itv.js?cid=bestzb&id=5000000010000017540
+上海教育,http://A/DIYP影音/js/itv.js?cid=bestzb&id=5000000011000288019
+哈哈炫动,http://A/DIYP影音/js/itv.js?cid=bestzb&id=5000000011000031123
+都市剧场,http://A/DIYP影音/js/itv.js?cid=bestzb&id=5000000011000031111
+生活时尚,http://A/DIYP影音/js/itv.js?cid=bestzb&id=5000000002000019634
+乐游,http://A/DIYP影音/js/itv.js?cid=bestzb&id=5000000011000031112
+东方财经,http://A/DIYP影音/js/itv.js?cid=bestzb&id=5000000007000010003
+法治天地,http://A/DIYP影音/js/itv.js?cid=bestzb&id=9001547084732463424
+多彩文体,http://A/DIYP影音/js/itv.js?cid=bestzb&id=5000000002000009455
+金色学堂,http://A/DIYP影音/js/itv.js?cid=bestzb&id=5000000010000026105
+动漫秀场,http://A/DIYP影音/js/itv.js?cid=bestzb&id=5000000011000031113
 
-快乐垂钓,http://A/ku9/js/itv.js?cid=bestzb&id=5000000011000031206
+快乐垂钓,http://A/DIYP影音/js/itv.js?cid=bestzb&id=5000000011000031206
 
 昆山新闻综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-kunshanxinwen/
 
@@ -243,32 +243,32 @@ CGTN РYCCKИЙ,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
 精品大剧,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-jdaju/
 精品综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-mingxingdp/
 精品萌宠,http://zv6.ott.mobaibox.com:6060/cntv/live1/jingpinmc/
-东北剧场,http://A/ku9/js/itv.js?cid=ystenlive&id=1000000005000266013
-欢乐剧场,http://A/ku9/js/itv.js?cid=ystenlive&id=1000000005000266012
-年代大剧,http://A/ku9/js/itv.js?cid=ystenlive&id=1000000005000266014
+东北剧场,http://A/DIYP影音/js/itv.js?cid=ystenlive&id=1000000005000266013
+欢乐剧场,http://A/DIYP影音/js/itv.js?cid=ystenlive&id=1000000005000266012
+年代大剧,http://A/DIYP影音/js/itv.js?cid=ystenlive&id=1000000005000266014
 
-求索纪录,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000002000032052
-求索动物,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000002000010046
-求索科学,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000002000032344
-求索生活,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000002000003382
-精彩影视,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000320630
-风尚音乐,http://A/ku9/js/itv.js?cid=wasusyt&id=5529729098703832176
-精品剧场,http://A/ku9/js/itv.js?cid=wasusyt&id=8230197131234717902
-欧美影院,http://A/ku9/js/itv.js?cid=wasusyt&id=7185203501769528108
-亚洲影院,http://A/ku9/js/itv.js?cid=wasusyt&id=584181622753952764
-爱谍战,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000070630
-爱动漫,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000280630
-爱科幻,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000020630
-爱科学,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000160630
-爱浪漫,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000040630
-爱历史,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000150630
-爱猎奇,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000190630
-爱旅行,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000250630
-爱奇谈,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000270630
-爱赛车,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000240630
-爱体育,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000290630
-爱玩具,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000220630
-爱喜剧,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000010630
-爱悬疑,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000050630
-爱幼教,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000180630
-爱院线,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000030630
+求索纪录,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=6000000002000032052
+求索动物,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=6000000002000010046
+求索科学,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=6000000002000032344
+求索生活,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=6000000002000003382
+精彩影视,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=6000000006000320630
+风尚音乐,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=5529729098703832176
+精品剧场,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=8230197131234717902
+欧美影院,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=7185203501769528108
+亚洲影院,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=584181622753952764
+爱谍战,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=6000000006000070630
+爱动漫,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=6000000006000280630
+爱科幻,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=6000000006000020630
+爱科学,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=6000000006000160630
+爱浪漫,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=6000000006000040630
+爱历史,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=6000000006000150630
+爱猎奇,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=6000000006000190630
+爱旅行,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=6000000006000250630
+爱奇谈,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=6000000006000270630
+爱赛车,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=6000000006000240630
+爱体育,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=6000000006000290630
+爱玩具,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=6000000006000220630
+爱喜剧,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=6000000006000010630
+爱悬疑,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=6000000006000050630
+爱幼教,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=6000000006000180630
+爱院线,http://A/DIYP影音/js/itv.js?cid=wasusyt&id=6000000006000030630
