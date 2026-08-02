@@ -63,7 +63,6 @@ CGTN РYCCKИЙ,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
 东方卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-dongfangstv/
 浙江卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-zhejiangstv/
 东南卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-dongnanstv/
-海峡卫视,http://go.bkpcp.top/mg/hxws
 厦门卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XIAMEN/
 广东卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-guangdongstv/
 深圳卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-shenzhenstv/
@@ -223,9 +222,6 @@ CGTN РYCCKИЙ,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
 重庆汽摩,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_QIMO/
 
 轮播频道,#genre#
-CHC动作电影,http://go.bkpcp.top/mg/dzdy
-CHC影迷电影,http://go.bkpcp.top/mg/ymdy
-CHC家庭影院,http://go.bkpcp.top/mg/jtyy
 黑莓电影,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-Supermovie/
 黑莓影视,http://zv6.ott.mobaibox.com:6060/cntv/live1/zhifouzf/
 黑莓动画,http://zv6.ott.mobaibox.com:6060/cntv/live1/donghuawg/
@@ -251,11 +247,15 @@ CHC家庭影院,http://go.bkpcp.top/mg/jtyy
 欢乐剧场,http://A/ku9/js/itv.js?cid=ystenlive&id=1000000005000266012
 年代大剧,http://A/ku9/js/itv.js?cid=ystenlive&id=1000000005000266014
 
+求索纪录,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000002000032052
+求索动物,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000002000010046
+求索科学,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000002000032344
+求索生活,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000002000003382
+精彩影视,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000320630
 风尚音乐,http://A/ku9/js/itv.js?cid=wasusyt&id=5529729098703832176
 精品剧场,http://A/ku9/js/itv.js?cid=wasusyt&id=8230197131234717902
 欧美影院,http://A/ku9/js/itv.js?cid=wasusyt&id=7185203501769528108
-亚洲影院,http://A/ku9/js/itv.js?cid=wasusyt&id=5841816227539527643
-
+亚洲影院,http://A/ku9/js/itv.js?cid=wasusyt&id=584181622753952764
 爱谍战,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000070630
 爱动漫,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000280630
 爱科幻,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000020630
@@ -272,8 +272,3 @@ CHC家庭影院,http://go.bkpcp.top/mg/jtyy
 爱悬疑,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000050630
 爱幼教,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000180630
 爱院线,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000030630
-精彩影视,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000006000320630
-求索纪录,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000002000032052
-求索动物,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000002000010046
-求索科学,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000002000032344
-求索生活,http://A/ku9/js/itv.js?cid=wasusyt&id=6000000002000003382
