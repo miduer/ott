@@ -99,10 +99,12 @@ CGTN 西班牙语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-ESPANOL/
 兵团卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_BINGTUAN/
 西藏卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XIZANG/
 
+少儿频道,#genre#
 卡酷少儿,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_KAKU/
 金鹰卡通,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_JINYING/
 嘉佳卡通,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_JIAJIA/
 优漫卡通,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_YOUMAN/
+黑莓动画,http://zv6.ott.mobaibox.com:6060/cntv/live1/donghuawg/
 
 地区频道,#genre#
 第一财经,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_DIYICJ-HQ/
@@ -136,7 +138,6 @@ CGTN 西班牙语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-ESPANOL/
 轮播频道,#genre#
 黑莓电影,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-Supermovie/
 黑莓影视,http://zv6.ott.mobaibox.com:6060/cntv/live1/zhifouzf/
-黑莓动画,http://zv6.ott.mobaibox.com:6060/cntv/live1/donghuawg/
 哒啵赛事,http://zv6.ott.mobaibox.com:6060/cntv/live1/wmyx/
 动作电影,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-dongzuody/
 惊悚悬疑,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-jingsongxy/
