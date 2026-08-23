@@ -132,10 +132,6 @@ CGTN 西班牙语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-ESPANOL/
 睛彩竞技,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-miguaoyun2/
 睛彩广场舞,http://zv6.ott.mobaibox.com:6060/cntv/live1/MIGU-8000k-1080P-jcgcw/
 欢乐棋牌,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-4000k-1080P-yinlingsg/
-掼蛋频道,http://ott.mobaibox.com/PLTV/3/224/3221228586/index.m3u8
-居家健身,http://zv6.ott.mobaibox.com:6060/gitv/live1/GITV-JS-4/
-体坛同期声,http://zv6.ott.mobaibox.com:6060/gitv/live1/GITV-JS-35/
-冰雪竞技场,http://zv6.ott.mobaibox.com:6060/gitv/live1/GITV-JS-45/
 
 轮播频道,#genre#
 黑莓电影,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-Supermovie/
