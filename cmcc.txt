@@ -32,10 +32,10 @@ CCTV-17 农业农村,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080
 高尔夫网球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CCTV-GOLF-CQ/
 早期教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-ZQJY-CQ/
 
-综合教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-1/
-空中课堂,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-2/
-北京地面,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-3/
-职业教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
+CETV1-综合教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-1/
+CETV2-空中课堂,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-2/
+CETV3-北京地面,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-3/
+CETV4-职业教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
  
 CGTN 英语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-CQ/
 CGTN 纪录,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-cctv-9/
