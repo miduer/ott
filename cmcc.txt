@@ -173,3 +173,15 @@ W-两个世界,http://zv6.ott.mobaibox.com:6060/cntv/live1/COSHD-1500k-1080P-wlg
 繁城之下,http://zv6.ott.mobaibox.com:6060/cntv/live1/COSHD-4000k-1080P-fczx/
 黑土无言,http://zv6.ott.mobaibox.com:6060/cntv/live1/COSHD-4000k-1080P-htwy/
 梨园经典荟萃,http://zv6.ott.mobaibox.com:6060/cntv/live1/COSHD-4000k-1080P-lyjdhc/
+
+广播频道,#genre#
+江苏新闻广播,http://zv6.ott.mobaibox.com:6060/gitv/live1/R_XINWEN/
+江苏新闻综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/R_XINWENZH/
+江苏交通广播,http://zv6.ott.mobaibox.com:6060/gitv/live1/R_JIAOTONG/
+江苏金陵之声,http://zv6.ott.mobaibox.com:6060/gitv/live1/R_997/
+江苏经典流行,http://zv6.ott.mobaibox.com:6060/gitv/live1/R_JINGDIANLX/
+江苏音乐广播,http://zv6.ott.mobaibox.com:6060/gitv/live1/R_YINYUE/
+江苏文艺广播,http://zv6.ott.mobaibox.com:6060/gitv/live1/R_WENYI/
+江苏故事广播,http://zv6.ott.mobaibox.com:6060/gitv/live1/R_GUSHI/
+江苏健康广播,http://zv6.ott.mobaibox.com:6060/gitv/live1/R_JIANKANG/
+江苏财经广播,http://zv6.ott.mobaibox.com:6060/gitv/live1/R_CAIJING/
