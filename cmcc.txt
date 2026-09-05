@@ -186,3 +186,12 @@ W-两个世界,http://zv6.ott.mobaibox.com:6060/cntv/live1/COSHD-1500k-1080P-wlg
 江苏故事广播,http://zv6.ott.mobaibox.com:6060/gitv/live1/R_GUSHI/
 江苏健康广播,http://zv6.ott.mobaibox.com:6060/gitv/live1/R_JIANKANG/
 江苏财经广播,http://zv6.ott.mobaibox.com:6060/gitv/live1/R_CAIJING/
+
+国际频道,#genre#
+Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+Brics,https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNN,https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+AL Jazeera,https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+
