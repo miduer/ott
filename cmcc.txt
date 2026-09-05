@@ -1,41 +1,41 @@
 央视频道,#genre#
-CCTV-1 综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv1/
-CCTV-2 财经,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv2/
-CCTV-3 综艺,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv3/
-CCTV-4 中文国际,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv4/
-CCTV-5 体育,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv5/
-CCTV-5+ 体育赛事,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv05plus/
-CCTV-6 电影,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv6/
-CCTV-7 国防军事,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-12000k-1080P-cctv7/
-CCTV-8 电视剧,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv8/
-CCTV-9 纪录,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv9/
-CCTV-10 科教,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv10/
-CCTV-11 戏曲,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv11/
-CCTV-12 社会与法,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv12/
-CCTV-13 新闻,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv13/
-CCTV-14 少儿,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv14/
-CCTV-15 音乐,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv15/
-CCTV-16 奥林匹克,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-cctv16/
-CCTV-17 农业农村,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv17/
+CCTV-1,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv1/
+CCTV-2,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv2/
+CCTV-3,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv3/
+CCTV-4,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv4/
+CCTV-5,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv5/
+CCTV-5+,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv05plus/
+CCTV-6,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv6/
+CCTV-7,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-12000k-1080P-cctv7/
+CCTV-8,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv8/
+CCTV-9,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv9/
+CCTV-10,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv10/
+CCTV-11,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv11/
+CCTV-12,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv12/
+CCTV-13,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv13/
+CCTV-14,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv14/
+CCTV-15,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv15/
+CCTV-16,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-cctv16/
+CCTV-17,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv17/
 
-CCTV-风云音乐,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FENGYUNYY-CQ/
-CCTV-风云剧场,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FENGYUNJC-CQ/
-CCTV-第一剧场,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_DIYIJC-CQ/
-CCTV-怀旧剧场,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HUAIJIUJC-CQ/
-CCTV-女性时尚,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_NVXINGSS-CQ/
-CCTV-世界地理,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHIJIEDL-CQ/
-CCTV-兵器科技,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_BINGQIKJ-CQ/
-CCTV-电视指南,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_DIANSHIZN-CQ/
-CCTV-央视文化精品,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CCTV-WENHUA-CQ/
-CCTV-风云足球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FENGSHANGZQ-CQ/
-CCTV-央视台球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TAIQIU-CQ/
-CCTV-高尔夫网球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CCTV-GOLF-CQ/
-CCTV-早期教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-ZQJY-CQ/
+风云音乐,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FENGYUNYY-CQ/
+风云剧场,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FENGYUNJC-CQ/
+第一剧场,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_DIYIJC-CQ/
+怀旧剧场,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HUAIJIUJC-CQ/
+女性时尚,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_NVXINGSS-CQ/
+世界地理,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHIJIEDL-CQ/
+兵器科技,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_BINGQIKJ-CQ/
+电视指南,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_DIANSHIZN-CQ/
+央视文化精品,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CCTV-WENHUA-CQ/
+风云足球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FENGSHANGZQ-CQ/
+央视台球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TAIQIU-CQ/
+高尔夫网球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CCTV-GOLF-CQ/
+早期教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-ZQJY-CQ/
 
-CETV-1 综合教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-1/
-CETV-2 空中课堂,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-2/
-CETV-3 北京地面,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-3/
-CETV-4 职业教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
+CETV-1,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-1/
+CETV-2,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-2/
+CETV-3,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-3/
+CETV-4,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
  
 CGTN 英语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-CQ/
 CGTN 纪录,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-cctv-9/
