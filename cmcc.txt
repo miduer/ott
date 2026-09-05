@@ -46,7 +46,6 @@ CCTV-17 HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv17/
 厦门卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XIAMEN/
 广东卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-guangdongstv/
 深圳卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-shenzhenstv/
-大湾区卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/SD-4000k-576P-nanfangstv/
 广西卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/GXWS/
 海南卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-lvyoustv/
 三沙卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SANSHA-HQ/
