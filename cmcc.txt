@@ -30,12 +30,11 @@ CCTV-17 HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv17/
 风云足球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FENGSHANGZQ-CQ/
 央视台球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TAIQIU-CQ/
 高尔夫网球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CCTV-GOLF-CQ/
-早期教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-ZQJY-CQ/
 
 卫视频道,#genre#
-凤凰卫视中文台,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-10000k-1080P-fhchinese5s/
-凤凰卫视资讯台,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-10000k-1080P-fhzixun5s/
-凤凰卫视香港台,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-10000k-1080P-fhhongkong5s/
+凤凰中文,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-10000k-1080P-fhchinese5s/
+凤凰资讯,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-10000k-1080P-fhzixun5s/
+凤凰香港,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-10000k-1080P-fhhongkong5s/
 北京卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-beijingstv/
 天津卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-tianjinstv/
 河北卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HEBEI-CQ/
@@ -110,8 +109,6 @@ CCTV-17 HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv17/
 
 轮播频道,#genre#
 黑莓电影,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-Supermovie/
-黑莓影视,http://zv6.ott.mobaibox.com:6060/cntv/live1/zhifouzf/
-黑莓动画,http://zv6.ott.mobaibox.com:6060/cntv/live1/donghuawg/
 动作电影,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-dongzuody/
 惊悚悬疑,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-jingsongxy/
 爱情喜剧,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-aiqingxj/
@@ -123,6 +120,5 @@ CCTV-17 HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv17/
 精品大剧,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-jdaju/
 潮妈辣婆,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-cmlapo/
 中国功夫,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-gzkongfu/
-农业致富,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-nongyezf/
 精品综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-mingxingdp/
 热播精选,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-xiqumd/
