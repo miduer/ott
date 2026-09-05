@@ -1,22 +1,22 @@
 央视频道,#genre#
-CCTV-1,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv1/
-CCTV-2,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv2/
-CCTV-3,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv3/
-CCTV-4,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv4/
-CCTV-5,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv5/
-CCTV-5+,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv05plus/
-CCTV-6,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv6/
-CCTV-7,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-12000k-1080P-cctv7/
-CCTV-8,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv8/
-CCTV-9,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv9/
-CCTV-10,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv10/
-CCTV-11,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv11/
-CCTV-12,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv12/
-CCTV-13,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv13/
-CCTV-14,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv14/
-CCTV-15,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv15/
-CCTV-16,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-cctv16/
-CCTV-17,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv17/
+CCTV-1 HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv1/
+CCTV-2 HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv2/
+CCTV-3 HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv3/
+CCTV-4 HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv4/
+CCTV-5 HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv5/
+CCTV-5+ HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv05plus/
+CCTV-6 HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv6/
+CCTV-7 HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-12000k-1080P-cctv7/
+CCTV-8 HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv8/
+CCTV-9 HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv9/
+CCTV-10 HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv10/
+CCTV-11 HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv11/
+CCTV-12 HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv12/
+CCTV-13 HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-cctv13/
+CCTV-14 HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv14/
+CCTV-15 HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv15/
+CCTV-16 HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-cctv16/
+CCTV-17 HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv17/
 
 风云音乐,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FENGYUNYY-CQ/
 风云剧场,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FENGYUNJC-CQ/
@@ -32,27 +32,6 @@ CCTV-17,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv17/
 高尔夫网球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CCTV-GOLF-CQ/
 早期教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-ZQJY-CQ/
 
-CETV-1,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-1/
-CETV-2,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-2/
-CETV-3,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-3/
-CETV-4,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
- 
-CGTN 英语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-CQ/
-CGTN 纪录,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-cctv-9/
-CGTN 俄语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
-CGTN 法语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-FRANCAIS/
-CGTN 阿拉伯语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN_A/
-CGTN 西班牙语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-ESPANOL/
-
-中学生,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_ZHONGXUESHENG/
-发现之旅,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FAXIANZL/
-老故事,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_LAOGUSHI/
-
-环球奇观,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HUANGQIUQIGUAN/
-书画世界,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHUHUA/
-国学频道,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_GUOXUE/
-重庆汽摩,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_QIMO/
-
 卫视频道,#genre#
 凤凰卫视中文台,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-10000k-1080P-fhchinese5s/
 凤凰卫视资讯台,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-10000k-1080P-fhzixun5s/
@@ -61,7 +40,6 @@ CGTN 西班牙语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-ESPANOL/
 天津卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-tianjinstv/
 河北卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HEBEI-CQ/
 山东卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-shandongstv/
-山东教育卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SDETV/
 江苏卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-jiangsustv/
 东方卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-dongfangstv/
 浙江卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-zhejiangstv/
@@ -76,7 +54,6 @@ CGTN 西班牙语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-ESPANOL/
 云南卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_YUNNAN-HQ/
 贵州卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_GUIZHOU-CQ/
 四川卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SICHUAN-CQ/
-康巴卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_KANGBA/
 重庆卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-chongqingstv/
 湖南卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-hunanstv/
 湖北卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-hubeistv/
@@ -85,14 +62,11 @@ CGTN 西班牙语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-ESPANOL/
 河南卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HENAN-CQ/
 辽宁卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-liaoningstv/
 吉林卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_JILIN-CQ/
-延边卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_YANBIAN/
 黑龙江卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-heilongjiangstv/
 陕西卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHANXI/
-农林卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_NONGLIN/
 甘肃卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_GANSU-HD/
 宁夏卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_NINGXIA/
 青海卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_QINGHAI/
-安多卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_ANDUO/
 山西卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHANXI1-HQ/
 内蒙古卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_NEIMENGGU/
 新疆卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XINJIANG-HD/
@@ -104,7 +78,6 @@ CGTN 西班牙语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-ESPANOL/
 金鹰卡通,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_JINYING/
 嘉佳卡通,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_JIAJIA/
 优漫卡通,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_YOUMAN/
-黑莓动画,http://zv6.ott.mobaibox.com:6060/cntv/live1/donghuawg/
 
 地区频道,#genre#
 第一财经,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_DIYICJ-HQ/
@@ -139,6 +112,7 @@ CGTN 西班牙语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-ESPANOL/
 掌上财金,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-4000k-1080P-zscaijin/
 黑莓电影,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-Supermovie/
 黑莓影视,http://zv6.ott.mobaibox.com:6060/cntv/live1/zhifouzf/
+黑莓动画,http://zv6.ott.mobaibox.com:6060/cntv/live1/donghuawg/
 动作电影,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-dongzuody/
 惊悚悬疑,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-jingsongxy/
 爱情喜剧,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-aiqingxj/
