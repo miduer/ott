@@ -133,6 +133,9 @@ CETV-4,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 镇江新闻综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_ZHENJIANGTV-1/
 镇江教育民生,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_ZHENJIANGTV-2/
 
+扬州新闻,
+扬州民生,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-yzshenghuo/
+扬州邗江,
 扬州江都,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_YANGZHOUJD/
 宝应新闻综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_BAOYINGXW/
  
@@ -154,11 +157,17 @@ CETV-4,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 宿迁公共,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SQGG/
 沭阳综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-shuyangzonghe/
 
+徐州1,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-xzxwzh/
 铜山1,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TONGSHAN-1/
 铜山2,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TONGSHAN-2/
 新沂综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XZXYTV-1/
 贾汪新闻,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XUZHOUJW/
 贾汪旅游,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XUZHOUJWLY/
+睢宁综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-xzsnzh/
+睢宁三农,http://zv6.ott.mobaibox.com:6060/cntv/live1/xzsnsn/
+沛县新闻综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-xzpxxwzh/
+沛县经济生活,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-xzpxsh/
+邳州综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-pzzonghe/
 
 连云港新闻综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/jslygxinwenzh/
 连云港生活频道,http://zv6.ott.mobaibox.com:6060/cntv/live1/jslyggonggongpd/
