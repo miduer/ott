@@ -31,7 +31,16 @@ CCTV-17 HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv17/
 央视台球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TAIQIU-CQ/
 高尔夫网球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CCTV-GOLF-CQ/
 
-CGTN,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-CQ/
+CGTN 英语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-CQ/
+CGTN 纪录,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-cctv-9/
+CGTN 俄语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
+CGTN 法语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-FRANCAIS/
+CGTN 阿拉伯语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN_A/
+CGTN 西班牙语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-ESPANOL/
+
+发现之旅,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FAXIANZL/
+中学生,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_ZHONGXUESHENG/
+老故事,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_LAOGUSHI/
 
 CETV-1,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-1/
 CETV-2,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-2/
@@ -145,8 +154,19 @@ CETV-4,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 宿迁公共,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SQGG/
 沭阳综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-shuyangzonghe/
 
+铜山1,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TONGSHAN-1/
+铜山2,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TONGSHAN-2/
+铜山3,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TONGSHAN-3/
+新沂综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XZXYTV-1/
+贾汪新闻,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XUZHOUJW/
+贾汪旅游,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XUZHOUJWLY/
+
 连云港新闻综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/jslygxinwenzh/
 连云港生活频道,http://zv6.ott.mobaibox.com:6060/cntv/live1/jslyggonggongpd/
+赣榆,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-2500k-1080P-ganyutv/
+东海综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/jsdonghaixinwen/
+灌云综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-guanyunzh/
+灌南,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_GUANNANZH/
 
 纪实体育,#genre#
 纪实科教,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-beijingjishi/
@@ -173,3 +193,18 @@ CETV-4,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 中国功夫,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-gzkongfu/
 精品综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-mingxingdp/
 热播精选,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-xiqumd/
+
+繁花（沪语）,http://zv6.ott.mobaibox.com:6060/cntv/live1/fanhua/
+漫长的季节,http://zv6.ott.mobaibox.com:6060/cntv/live1/manchangdjj/
+梦中的那片海,http://zv6.ott.mobaibox.com:6060/cntv/live1/mengzhongdnph/
+烟火人家,http://zv6.ott.mobaibox.com:6060/cntv/live1/cos-yanhuorenjia/
+永安梦,http://zv6.ott.mobaibox.com:6060/cntv/live1/cos-yonganmeng/
+猎冰,http://zv6.ott.mobaibox.com:6060/cntv/live1/cos-liebing/
+W-两个世界,http://zv6.ott.mobaibox.com:6060/cntv/live1/COSHD-1500k-1080P-wlgsj/
+谢谢你温暖我,http://zv6.ott.mobaibox.com:6060/cntv/live1/COSHD-4000k-1080P-xxnwnw/
+小日子,http://zv6.ott.mobaibox.com:6060/cntv/live1/COSHD-4000k-1080P-xiaorizi/
+问心,http://zv6.ott.mobaibox.com:6060/cntv/live1/COSHD-4000k-1080P-wenxin/
+父辈的荣耀,http://zv6.ott.mobaibox.com:6060/cntv/live1/COSHD-4000k-1080P-fbdry/
+繁城之下,http://zv6.ott.mobaibox.com:6060/cntv/live1/COSHD-4000k-1080P-fczx/
+黑土无言,http://zv6.ott.mobaibox.com:6060/cntv/live1/COSHD-4000k-1080P-htwy/
+梨园经典荟萃,http://zv6.ott.mobaibox.com:6060/cntv/live1/COSHD-4000k-1080P-lyjdhc/
