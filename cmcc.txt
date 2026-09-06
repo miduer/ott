@@ -55,6 +55,7 @@ CETV-4,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 天津卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-tianjinstv/
 河北卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HEBEI-CQ/
 山东卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-shandongstv/
+山东教育卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-shandongjy/
 江苏卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-jiangsustv/
 东方卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-dongfangstv/
 浙江卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-zhejiangstv/
@@ -68,6 +69,7 @@ CETV-4,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 云南卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_YUNNAN-HQ/
 贵州卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_GUIZHOU-CQ/
 四川卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SICHUAN-CQ/
+康巴卫视SD,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_KANGBA/
 重庆卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-chongqingstv/
 湖南卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-hunanstv/
 湖北卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-hubeistv/
@@ -76,11 +78,14 @@ CETV-4,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 河南卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HENAN-CQ/
 辽宁卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-liaoningstv/
 吉林卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_JILIN-CQ/
+延边卫视SD,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_YANBIAN/
 黑龙江卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-heilongjiangstv/
 陕西卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHANXI/
+农林卫视SD,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_NONGLIN/
 甘肃卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_GANSU-HD/
 宁夏卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_NINGXIA/
 青海卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_QINGHAI/
+安多卫视SD,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_ANDUO/
 山西卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHANXI1-HQ/
 内蒙古卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_NEIMENGGU/
 新疆卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XINJIANG-HD/
@@ -133,12 +138,12 @@ CETV-4,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 镇江新闻综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_ZHENJIANGTV-1/
 镇江教育民生,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_ZHENJIANGTV-2/
 
-扬州新闻,
+扬州新闻,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_YANGZHOUXW/
 扬州民生,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-yzshenghuo/
-扬州邗江,
+扬州邗江,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_YANGZHOUSH/
 扬州江都,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_YANGZHOUJD/
 宝应新闻综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_BAOYINGXW/
- 
+
 泰州1,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TAIZHOUTV-1/
 泰州2,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TAIZHOUTV-2/
 泰州3,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TAIZHOUTV-3/
@@ -147,7 +152,7 @@ CETV-4,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 盐城2,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_YANCHENGTV-2/
 射阳新闻综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHEYANGTV-1/
 射阳经济生活,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHEYANGTV-2/
- 
+
 淮安综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HUAIANXW-CQ/
 淮安影视娱乐,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HUAIANYS-CQ/
 淮安公共,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HUAIANGG-CQ/
@@ -156,8 +161,11 @@ CETV-4,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 宿迁综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SQZH/
 宿迁公共,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SQGG/
 沭阳综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-shuyangzonghe/
+泗洪综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHZH/
 
-徐州1,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-xzxwzh/
+徐州1,http://zv6.ott.mobaibox.com:6060/cntv/live1/xzxwzh/
+徐州2,http://zv6.ott.mobaibox.com:6060/cntv/live1/xzjjsh/
+徐州3,http://zv6.ott.mobaibox.com:6060/cntv/live1/xzwyys/
 铜山1,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TONGSHAN-1/
 铜山2,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TONGSHAN-2/
 新沂综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XZXYTV-1/
