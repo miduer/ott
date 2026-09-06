@@ -154,9 +154,6 @@ CETV-4,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 宿迁公共,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SQGG/
 沭阳综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-shuyangzonghe/
 
-铜山1,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TONGSHAN-1/
-铜山2,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TONGSHAN-2/
-铜山3,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TONGSHAN-3/
 新沂综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XZXYTV-1/
 贾汪新闻,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XUZHOUJW/
 贾汪旅游,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XUZHOUJWLY/
