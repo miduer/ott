@@ -30,6 +30,7 @@ CCTV-17 HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv17/
 风云足球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FENGSHANGZQ-CQ/
 央视台球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TAIQIU-CQ/
 高尔夫网球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CCTV-GOLF-CQ/
+早期教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-ZQJY-CQ/
 
 CGTN 英语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-CQ/
 CGTN 纪录,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-cctv-9/
@@ -93,8 +94,8 @@ CETV-4,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 西藏卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XIZANG/
 
 少儿频道,#genre#
-卡酷少儿,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_KAKU/
-金鹰卡通,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_JINYING/
+卡酷少儿,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-kakukaton/
+金鹰卡通,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-jinyingkaton/
 嘉佳卡通,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_JIAJIA/
 优漫卡通,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_YOUMAN/
 
@@ -224,3 +225,10 @@ W-两个世界,http://zv6.ott.mobaibox.com:6060/cntv/live1/COSHD-1500k-1080P-wlg
 繁城之下,http://zv6.ott.mobaibox.com:6060/cntv/live1/COSHD-4000k-1080P-fczx/
 黑土无言,http://zv6.ott.mobaibox.com:6060/cntv/live1/COSHD-4000k-1080P-htwy/
 梨园经典荟萃,http://zv6.ott.mobaibox.com:6060/cntv/live1/COSHD-4000k-1080P-lyjdhc/
+
+其他频道,#genre#
+环球奇观,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HUANGQIUQIGUAN/
+书画世界,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHUHUA/
+国学频道,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_GUOXUE/
+重庆汽摩,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_QIMO/
+掌上财金,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-4000k-1080P-zscaijin/
