@@ -31,6 +31,13 @@ CCTV-17 HD,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv17/
 央视台球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TAIQIU-CQ/
 高尔夫网球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CCTV-GOLF-CQ/
 
+CGTN,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-CQ/
+
+CETV-1,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-1/
+CETV-2,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-2/
+CETV-3,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-3/
+CETV-4,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
+
 卫视频道,#genre#
 凤凰中文,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-10000k-1080P-fhchinese5s/
 凤凰资讯,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-10000k-1080P-fhzixun5s/
