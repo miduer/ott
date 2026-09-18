@@ -18,18 +18,24 @@ CCTV-15 音乐,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv
 CCTV-16 奥林匹克,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-cctv16/
 CCTV-17 农业农村,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv17/
 
-风云音乐,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FENGYUNYY-CQ/
-风云剧场,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FENGYUNJC-CQ/
-第一剧场,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_DIYIJC-CQ/
-怀旧剧场,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HUAIJIUJC-CQ/
-女性时尚,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_NVXINGSS-CQ/
-世界地理,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHIJIEDL-CQ/
-兵器科技,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_BINGQIKJ-CQ/
-央视文化精品,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CCTV-WENHUA-CQ/
-风云足球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FENGSHANGZQ-CQ/
-央视台球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TAIQIU-CQ/
-高尔夫网球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CCTV-GOLF-CQ/
-早期教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-ZQJY-CQ/
+CCTV-风云音乐,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FENGYUNYY-CQ/
+CCTV-风云剧场,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FENGYUNJC-CQ/
+CCTV-第一剧场,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_DIYIJC-CQ/
+CCTV-怀旧剧场,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HUAIJIUJC-CQ/
+CCTV-女性时尚,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_NVXINGSS-CQ/
+CCTV-世界地理,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHIJIEDL-CQ/
+CCTV-兵器科技,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_BINGQIKJ-CQ/
+CCTV-电视指南,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_DIANSHIZN-CQ/
+CCTV-央视文化精品,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CCTV-WENHUA-CQ/
+CCTV-风云足球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FENGSHANGZQ-CQ/
+CCTV-央视台球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TAIQIU-CQ/
+CCTV-高尔夫网球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CCTV-GOLF-CQ/
+CETV-早期教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-ZQJY-CQ/
+
+CETV-1 综合教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-1/
+CETV-2 空中课堂,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-2/
+CETV-3 北京地面,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-3/
+CETV-4 职业教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 
 CGTN 英语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-CQ/
 CGTN 纪录,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-cctv-9/
@@ -39,9 +45,9 @@ CGTN 阿拉伯语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN_A/
 CGTN 西班牙语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-ESPANOL/
 
 卫视频道,#genre#
-凤凰中文,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-10000k-1080P-fhchinese5s/
-凤凰资讯,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-10000k-1080P-fhzixun5s/
-凤凰香港,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-10000k-1080P-fhhongkong5s/
+凤凰卫视中文台,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-10000k-1080P-fhchinese5s/
+凤凰卫视资讯台,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-10000k-1080P-fhzixun5s/
+凤凰卫视香港台,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-10000k-1080P-fhhongkong5s/
 北京卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-beijingstv/
 天津卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-tianjinstv/
 河北卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HEBEI-CQ/
@@ -88,11 +94,6 @@ CGTN 西班牙语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-ESPANOL/
 金鹰卡通,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-jinyingkaton/
 嘉佳卡通,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_JIAJIA/
 优漫卡通,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_YOUMAN/
-
-CETV-1,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-1/
-CETV-2,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-2/
-CETV-3,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-3/
-CETV-4,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 
 地区频道,#genre#
 第一财经,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_DIYICJ-HQ/
@@ -159,7 +160,7 @@ CETV-4,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 沭阳综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-shuyangzonghe/
 泗洪综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHZH/
 
-徐州1,http://zv6.ott.mobaibox.com:6060/cntv/live1/xzxwzh/
+徐州1,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-xzxwzh/
 徐州2,http://zv6.ott.mobaibox.com:6060/cntv/live1/xzjjsh/
 徐州3,http://zv6.ott.mobaibox.com:6060/cntv/live1/xzwyys/
 铜山1,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TONGSHAN-1/
