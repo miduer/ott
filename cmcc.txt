@@ -25,7 +25,6 @@ CCTV-怀旧剧场,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HUAIJIUJC-CQ/
 CCTV-女性时尚,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_NVXINGSS-CQ/
 CCTV-世界地理,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHIJIEDL-CQ/
 CCTV-兵器科技,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_BINGQIKJ-CQ/
-CCTV-电视指南,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_DIANSHIZN-CQ/
 CCTV-央视文化精品,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CCTV-WENHUA-CQ/
 CCTV-风云足球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FENGSHANGZQ-CQ/
 CCTV-央视台球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TAIQIU-CQ/
@@ -89,15 +88,15 @@ CGTN 西班牙语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-ESPANOL/
 兵团卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_BINGTUAN/
 西藏卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XIZANG/
 
-少儿教育,#genre#
+纪实科教,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-beijingjishi/
+金鹰纪实,http://zv6.ott.mobaibox.com:6060/cntv/live1/SD-4000k-576P-jinyingjs/
+
 卡酷少儿,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-kakukaton/
 金鹰卡通,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-jinyingkaton/
 嘉佳卡通,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_JIAJIA/
 优漫卡通,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_YOUMAN/
 
 地区频道,#genre#
-第一财经,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_DIYICJ-HQ/
-
 江苏新闻,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_JSGG/
 江苏城市,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_JSCS/
 江苏综艺,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_JSZY/
@@ -118,19 +117,10 @@ CGTN 西班牙语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-ESPANOL/
 
 无锡新闻综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-wuxixinwen/
 无锡都市资讯,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-wuxidushi/
-江阴新闻综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-jiangyinxinwen/
-江阴社会经济,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-jiangyinjingji/
-江阴民生频道,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-jiangyinminsheng/
-江阴电视剧,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-jiangyindianshiju/
-宜兴新闻综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-yixingxinwen/
-宜兴生活,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-yixingshenghuo/
-宜兴影视,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-yixingyingshi/
-宜兴紫砂,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-yixingzisha/
 
 常州新闻综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CHANGZHOUXW/
 常州都市,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CHANGZHOUDS/
 常州生活,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CHANGZHOUSH/
-金坛综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-jintanxinwen/
 
 镇江新闻综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_ZHENJIANGTV-1/
 镇江教育民生,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_ZHENJIANGTV-2/
@@ -139,7 +129,6 @@ CGTN 西班牙语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-ESPANOL/
 扬州民生,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-yzshenghuo/
 扬州邗江,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_YANGZHOUSH/
 扬州江都,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_YANGZHOUJD/
-宝应新闻综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_BAOYINGXW/
 
 泰州1,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TAIZHOUTV-1/
 泰州2,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TAIZHOUTV-2/
@@ -147,43 +136,20 @@ CGTN 西班牙语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-ESPANOL/
  
 盐城1,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_YANCHENGTV-1/
 盐城2,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_YANCHENGTV-2/
-射阳新闻综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHEYANGTV-1/
-射阳经济生活,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHEYANGTV-2/
 
 淮安综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HUAIANXW-CQ/
 淮安影视娱乐,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HUAIANYS-CQ/
 淮安公共,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HUAIANGG-CQ/
-盱眙综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-xuyizonghe/
 
 宿迁综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SQZH/
 宿迁公共,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SQGG/
-沭阳综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-shuyangzonghe/
-泗洪综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHZH/
-
-徐州1,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-xzxwzh/
-徐州2,http://zv6.ott.mobaibox.com:6060/cntv/live1/xzjjsh/
-徐州3,http://zv6.ott.mobaibox.com:6060/cntv/live1/xzwyys/
-铜山1,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TONGSHAN-1/
-铜山2,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TONGSHAN-2/
-新沂综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XZXYTV-1/
-贾汪新闻,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XUZHOUJW/
-贾汪旅游,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XUZHOUJWLY/
-睢宁综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-xzsnzh/
-睢宁三农,http://zv6.ott.mobaibox.com:6060/cntv/live1/xzsnsn/
-沛县新闻综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-xzpxxwzh/
-沛县经济生活,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-xzpxsh/
-邳州综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-pzzonghe/
 
 连云港新闻综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/jslygxinwenzh/
 连云港生活频道,http://zv6.ott.mobaibox.com:6060/cntv/live1/jslyggonggongpd/
-赣榆,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-2500k-1080P-ganyutv/
-东海综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/jsdonghaixinwen/
-灌云综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-guanyunzh/
-灌南,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_GUANNANZH/
 
-纪实体育,#genre#
-纪实科教,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-beijingjishi/
-金鹰纪实,http://zv6.ott.mobaibox.com:6060/cntv/live1/SD-4000k-576P-jinyingjs/
+第一财经,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_DIYICJ-HQ/
+
+体育频道,#genre#
 睛彩青少,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-quanminrl/
 睛彩篮球,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-miguaoyun1/
 睛彩竞技,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-miguaoyun2/
