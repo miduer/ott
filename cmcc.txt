@@ -18,11 +18,6 @@ CCTV-15 音乐,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv
 CCTV-16 奥林匹克,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-cctv16/
 CCTV-17 农业农村,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-cctv17/
 
-CETV-1 综合教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-1/
-CETV-2 空中课堂,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-2/
-CETV-3 北京地面,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-3/
-CETV-4 职业教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
-
 CGTN 英语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-CQ/
 CGTN 纪录,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-cctv-9/
 CGTN 俄语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-PYCCNN/
@@ -33,6 +28,11 @@ CGTN 西班牙语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-ESPANOL/
 发现之旅,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FAXIANZL/
 中学生,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_ZHONGXUESHENG/
 老故事,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_LAOGUSHI/
+
+CETV-1 综合教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-1/
+CETV-2 空中课堂,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-2/
+CETV-3 北京地面,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-3/
+CETV-4 职业教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 
 数字频道,#genre#
 风云音乐,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FENGYUNYY-CQ/
@@ -175,14 +175,9 @@ CGTN 西班牙语,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-ESPANOL/
 宿迁综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SQZH/
 宿迁公共,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SQGG/
 沭阳综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-shuyangzonghe/
-泗洪综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHZH/
 
-徐州1,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-SMS-xzxwzh/
-徐州2,http://zv6.ott.mobaibox.com:6060/cntv/live1/xzjjsh/
-徐州3,http://zv6.ott.mobaibox.com:6060/cntv/live1/xzwyys/
 铜山1,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TONGSHAN-1/
 铜山2,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TONGSHAN-2/
-铜山3,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TONGSHAN-3/
 新沂综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XZXYTV-1/
 贾汪新闻,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XUZHOUJW/
 贾汪旅游,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XUZHOUJWLY/
