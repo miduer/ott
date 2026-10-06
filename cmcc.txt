@@ -20,10 +20,10 @@ CCTV-17 农业农村,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080
 
 CGTN,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-CQ/
 
-CETV-1 综合教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-1/
-CETV-2 空中课堂,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-2/
-CETV-3 北京地面,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-3/
-CETV-4 职业教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
+CETV-1,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-1/
+CETV-2,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-2/
+CETV-3,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-3/
+CETV-4,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 
 数字频道,#genre#
 风云音乐,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FENGYUNYY-CQ/
