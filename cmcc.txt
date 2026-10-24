@@ -20,10 +20,10 @@ CCTV-17 农业农村,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080
 
 CGTN,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CGTN-CQ/
 
-CETV-1,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-1/
-CETV-2,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-2/
-CETV-3,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-3/
-CETV-4,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
+CETV-1 综合教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-1/
+CETV-2 空中课堂,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-2/
+CETV-3 北京地面,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-3/
+CETV-4 职业教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 
 数字频道,#genre#
 风云音乐,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_FENGYUNYY-CQ/
@@ -38,12 +38,19 @@ CETV-4,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 央视台球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TAIQIU-CQ/
 高尔夫网球,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CCTV-GOLF-CQ/
 早期教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-ZQJY-CQ/
+天元围棋,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TIANYUANWQ/
+
+睛彩青少,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-quanminrl/
+睛彩篮球,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-miguaoyun1/
+睛彩竞技,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-miguaoyun2/
+睛彩广场舞,http://zv6.ott.mobaibox.com:6060/cntv/live1/MIGU-8000k-1080P-jcgcw/
 
 卫视频道,#genre#
 凤凰卫视中文台,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-10000k-1080P-fhchinese5s/
 凤凰卫视资讯台,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-10000k-1080P-fhzixun5s/
 凤凰卫视香港台,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-10000k-1080P-fhhongkong5s/
 北京卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-beijingstv/
+北京纪实科教,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-beijingjishi/
 天津卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-tianjinstv/
 河北卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HEBEI-CQ/
 山东卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-shandongstv/
@@ -62,6 +69,7 @@ CETV-4,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 四川卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SICHUAN-CQ/
 重庆卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-chongqingstv/
 湖南卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-hunanstv/
+湖南金鹰纪实,http://zv6.ott.mobaibox.com:6060/cntv/live1/SD-4000k-576P-jinyingjs/
 湖北卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-hubeistv/
 江西卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-5500k-1080P-jiangxistv/
 安徽卫视,http://zv6.ott.mobaibox.com:6060/cntv/live1/H265-8000k-1080P-anhuistv/
@@ -78,9 +86,6 @@ CETV-4,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 新疆卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XINJIANG-HD/
 兵团卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_BINGTUAN/
 西藏卫视,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_XIZANG/
-
-纪实科教,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-beijingjishi/
-金鹰纪实,http://zv6.ott.mobaibox.com:6060/cntv/live1/SD-4000k-576P-jinyingjs/
 
 地区频道,#genre#
 第一财经,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_DIYICJ-HQ/
@@ -135,16 +140,7 @@ CETV-4,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 连云港新闻综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/jslygxinwenzh/
 连云港生活频道,http://zv6.ott.mobaibox.com:6060/cntv/live1/jslyggonggongpd/
 
-体育频道,#genre#
-睛彩青少,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-quanminrl/
-睛彩篮球,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-miguaoyun1/
-睛彩竞技,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-miguaoyun2/
-睛彩广场舞,http://zv6.ott.mobaibox.com:6060/cntv/live1/MIGU-8000k-1080P-jcgcw/
-天元围棋,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TIANYUANWQ/
-
 轮播频道,#genre#
-掌上财金,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-4000k-1080P-zscaijin/
-欢乐棋牌,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-4000k-1080P-yinlingsg/
 黑莓电影,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-8000k-1080P-Supermovie/
 动作电影,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-dongzuody/
 惊悚悬疑,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-jingsongxy/
@@ -159,3 +155,5 @@ CETV-4,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 中国功夫,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-gzkongfu/
 精品综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-mingxingdp/
 热播精选,http://zv6.ott.mobaibox.com:6060/cntv/live1/n-xiqumd/
+掌上财金,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-4000k-1080P-zscaijin/
+欢乐棋牌,http://zv6.ott.mobaibox.com:6060/cntv/live1/HD-4000k-1080P-yinlingsg/
