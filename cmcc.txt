@@ -164,11 +164,11 @@ CETV-4 职业教育,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_CETV-4/
 淮安影视娱乐,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HUAIANYS-CQ/
 淮安公共,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_HUAIANGG-CQ/
 金湖新闻综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_JINHU/
+盱眙综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-xuyizonghe/
 
 宿迁综合,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SQZH/
 宿迁公共,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SQGG/
 沭阳综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-shuyangzonghe/
-盱眙综合,http://zv6.ott.mobaibox.com:6060/cntv/live1/JSGD-GW-SMS-xuyizonghe/
 
 铜山1,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TONGSHAN-1/
 铜山2,http://zv6.ott.mobaibox.com:6060/gitv/live1/G_TONGSHAN-2/
